@@ -2,3 +2,4 @@
 [2026-05-01 14:09:42 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-05-01 15:44:10 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-05-02 11:27:40 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-05-02 12:44:29 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
