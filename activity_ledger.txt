@@ -8,3 +8,4 @@
 [2026-05-03 11:18:42 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-05-03 12:06:16 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-05-03 14:36:39 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-05-03 21:39:47 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
