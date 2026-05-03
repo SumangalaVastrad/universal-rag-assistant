@@ -6,3 +6,4 @@
 [2026-05-02 19:56:14 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-05-02 20:06:58 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-05-03 11:18:42 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
+[2026-05-03 12:06:16 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
