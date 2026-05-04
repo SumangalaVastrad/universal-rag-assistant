@@ -10,3 +10,4 @@
 [2026-05-03 14:36:39 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-05-03 21:39:47 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-05-04 12:13:48 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
+[2026-05-04 13:26:19 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
