@@ -15,3 +15,4 @@
 [2026-05-04 18:51:58 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-05-04 20:51:16 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-05-05 11:25:56 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
+[2026-05-05 14:54:37 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
