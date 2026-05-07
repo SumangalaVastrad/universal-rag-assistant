@@ -20,3 +20,4 @@
 [2026-05-06 09:01:17 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-05-06 10:14:03 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-05-06 18:04:51 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-05-07 10:41:35 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
