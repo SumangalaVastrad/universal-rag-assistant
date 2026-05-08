@@ -27,3 +27,4 @@
 [2026-05-08 15:44:42 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-05-08 18:05:20 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-05-08 19:45:28 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-05-08 20:47:55 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
