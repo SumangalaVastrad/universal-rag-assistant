@@ -25,3 +25,4 @@
 [2026-05-07 20:10:18 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
 [2026-05-07 22:06:20 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-05-08 15:44:42 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-05-08 18:05:20 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
