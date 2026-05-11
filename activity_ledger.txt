@@ -40,3 +40,4 @@
 [2026-05-11 10:58:37 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-05-11 11:44:47 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-05-11 13:08:15 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
+[2026-05-11 14:48:33 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
