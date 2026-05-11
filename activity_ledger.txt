@@ -39,3 +39,4 @@
 [2026-05-10 20:46:37 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
 [2026-05-11 10:58:37 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-05-11 11:44:47 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
+[2026-05-11 13:08:15 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
