@@ -44,3 +44,4 @@
 [2026-05-11 22:01:03 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-05-12 09:52:46 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-05-12 17:48:42 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
+[2026-05-12 22:27:15 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
