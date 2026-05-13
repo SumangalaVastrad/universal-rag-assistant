@@ -48,3 +48,4 @@
 [2026-05-13 10:08:33 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
 [2026-05-13 14:44:58 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-05-13 18:04:12 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
+[2026-05-13 22:15:52 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
