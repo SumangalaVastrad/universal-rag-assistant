@@ -51,3 +51,4 @@
 [2026-05-13 22:15:52 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-05-14 10:36:30 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-05-14 13:01:24 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
+[2026-05-14 14:13:19 +0530] feat(context): implement dynamic context window packing to maximize token utilization
