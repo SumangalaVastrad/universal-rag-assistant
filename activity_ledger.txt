@@ -53,3 +53,4 @@
 [2026-05-14 13:01:24 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-05-14 14:13:19 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-05-14 21:37:51 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
+[2026-05-15 12:49:51 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
