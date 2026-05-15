@@ -55,3 +55,4 @@
 [2026-05-14 21:37:51 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-05-15 12:49:51 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-05-15 17:16:10 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
+[2026-05-15 21:01:27 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
