@@ -59,3 +59,4 @@
 [2026-05-15 22:02:15 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-05-16 09:55:48 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-05-16 15:47:20 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
+[2026-05-16 19:07:14 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
