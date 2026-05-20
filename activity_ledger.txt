@@ -76,3 +76,4 @@
 [2026-05-19 21:50:14 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-05-19 22:29:20 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-05-20 09:10:06 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-05-20 12:46:16 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
