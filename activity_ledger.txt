@@ -84,3 +84,4 @@
 [2026-05-21 12:09:08 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-05-21 16:01:04 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-05-21 17:54:50 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-05-21 20:15:09 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
