@@ -88,3 +88,4 @@
 [2026-05-22 09:58:42 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-05-22 10:29:52 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-05-22 12:09:06 +0530] feat(context): implement dynamic context window packing to maximize token utilization
+[2026-05-22 13:58:55 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
