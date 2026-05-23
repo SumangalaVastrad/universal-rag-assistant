@@ -94,3 +94,4 @@
 [2026-05-23 15:14:12 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-05-23 16:18:18 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-05-23 19:29:57 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
+[2026-05-23 22:10:03 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
