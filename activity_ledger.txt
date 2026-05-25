@@ -103,3 +103,4 @@
 [2026-05-25 16:21:25 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-05-25 17:18:12 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-05-25 21:02:21 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
+[2026-05-25 22:39:15 +0530] feat(context): implement dynamic context window packing to maximize token utilization
