@@ -99,3 +99,4 @@
 [2026-05-24 10:13:42 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-05-24 13:57:52 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-05-24 15:34:16 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
+[2026-05-25 14:37:33 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
