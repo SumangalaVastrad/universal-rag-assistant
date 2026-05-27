@@ -109,3 +109,4 @@
 [2026-05-26 18:18:35 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
 [2026-05-26 21:53:51 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-05-27 11:38:21 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-05-27 12:52:48 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
