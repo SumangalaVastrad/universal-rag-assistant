@@ -111,3 +111,4 @@
 [2026-05-27 11:38:21 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-05-27 12:52:48 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-05-27 14:45:23 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
+[2026-05-27 21:38:02 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
