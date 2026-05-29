@@ -116,3 +116,4 @@
 [2026-05-28 21:12:32 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-05-28 22:03:06 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-05-29 09:52:09 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
+[2026-05-29 12:22:46 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
