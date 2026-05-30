@@ -119,3 +119,4 @@
 [2026-05-29 12:22:46 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-05-29 14:12:52 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-05-29 18:55:56 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-05-30 14:05:24 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
