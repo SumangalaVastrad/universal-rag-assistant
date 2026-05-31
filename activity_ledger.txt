@@ -124,3 +124,4 @@
 [2026-05-30 22:26:38 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-05-31 15:32:42 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-05-31 19:21:12 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-05-31 20:46:36 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
