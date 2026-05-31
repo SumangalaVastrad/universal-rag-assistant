@@ -122,3 +122,4 @@
 [2026-05-30 14:05:24 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-05-30 17:46:43 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-05-30 22:26:38 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-05-31 15:32:42 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
