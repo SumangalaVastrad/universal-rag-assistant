@@ -126,3 +126,4 @@
 [2026-05-31 19:21:12 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-05-31 20:46:36 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-06-01 11:25:20 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
+[2026-06-01 18:47:45 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
