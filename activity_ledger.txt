@@ -128,3 +128,4 @@
 [2026-06-01 11:25:20 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-06-01 18:47:45 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-06-01 19:19:09 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-06-02 09:39:21 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
