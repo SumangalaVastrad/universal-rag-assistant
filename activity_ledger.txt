@@ -129,3 +129,4 @@
 [2026-06-01 18:47:45 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-06-01 19:19:09 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-06-02 09:39:21 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
+[2026-06-02 11:52:40 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
