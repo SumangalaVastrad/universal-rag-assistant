@@ -133,3 +133,4 @@
 [2026-06-02 15:15:41 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-06-02 18:37:07 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-06-02 21:32:10 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
+[2026-06-03 19:41:47 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
