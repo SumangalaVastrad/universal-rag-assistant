@@ -138,3 +138,4 @@
 [2026-06-03 22:29:01 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
 [2026-06-04 09:04:25 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
 [2026-06-04 10:29:47 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
+[2026-06-04 20:27:11 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
