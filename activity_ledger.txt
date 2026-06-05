@@ -143,3 +143,4 @@
 [2026-06-05 18:15:11 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-06-05 19:29:05 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-06-05 20:52:55 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-06-05 21:03:19 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
