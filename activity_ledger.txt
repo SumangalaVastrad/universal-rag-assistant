@@ -150,3 +150,4 @@
 [2026-06-06 20:31:46 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-06-07 09:14:13 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-06-07 10:27:45 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
+[2026-06-07 14:36:47 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
