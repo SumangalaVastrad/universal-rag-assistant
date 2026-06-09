@@ -156,3 +156,4 @@
 [2026-06-08 12:10:04 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-06-08 15:24:01 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-06-09 09:11:41 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-06-09 10:19:06 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
