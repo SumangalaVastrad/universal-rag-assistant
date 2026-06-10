@@ -162,3 +162,4 @@
 [2026-06-10 13:57:25 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-06-10 15:24:12 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-06-10 17:29:03 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
+[2026-06-10 19:17:29 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
