@@ -159,3 +159,4 @@
 [2026-06-09 10:19:06 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-06-09 12:31:55 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-06-10 10:12:24 +0530] feat(context): implement dynamic context window packing to maximize token utilization
+[2026-06-10 13:57:25 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
