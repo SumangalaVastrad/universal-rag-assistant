@@ -165,3 +165,4 @@
 [2026-06-10 19:17:29 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-06-11 10:27:49 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-06-11 14:38:15 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
+[2026-06-11 17:36:04 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
