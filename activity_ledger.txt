@@ -168,3 +168,4 @@
 [2026-06-11 17:36:04 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-06-11 19:54:25 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-06-11 22:53:34 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
+[2026-06-12 09:33:37 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
