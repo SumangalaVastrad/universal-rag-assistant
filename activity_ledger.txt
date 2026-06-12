@@ -171,3 +171,4 @@
 [2026-06-12 09:33:37 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-06-12 10:58:34 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-06-12 13:52:37 +0530] feat(context): implement dynamic context window packing to maximize token utilization
+[2026-06-12 15:44:40 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
