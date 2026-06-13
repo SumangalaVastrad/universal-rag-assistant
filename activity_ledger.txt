@@ -172,3 +172,4 @@
 [2026-06-12 10:58:34 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-06-12 13:52:37 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-06-12 15:44:40 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-06-13 12:09:03 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
