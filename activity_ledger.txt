@@ -174,3 +174,4 @@
 [2026-06-12 15:44:40 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-06-13 12:09:03 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-06-13 21:28:06 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
+[2026-06-13 22:44:28 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
