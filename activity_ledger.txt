@@ -179,3 +179,4 @@
 [2026-06-14 13:26:36 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-06-14 14:21:55 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-06-14 19:18:34 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
+[2026-06-14 20:30:56 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
