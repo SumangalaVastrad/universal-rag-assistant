@@ -176,3 +176,4 @@
 [2026-06-13 21:28:06 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-06-13 22:44:28 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-06-14 10:25:36 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
+[2026-06-14 13:26:36 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
