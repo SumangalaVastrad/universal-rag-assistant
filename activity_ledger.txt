@@ -181,3 +181,4 @@
 [2026-06-14 19:18:34 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-06-14 20:30:56 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-06-15 11:38:49 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-06-15 18:07:07 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
