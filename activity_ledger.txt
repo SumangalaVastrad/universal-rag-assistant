@@ -186,3 +186,4 @@
 [2026-06-16 13:32:37 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-06-16 15:39:31 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-06-16 19:03:12 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-06-16 22:18:26 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
