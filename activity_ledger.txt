@@ -187,3 +187,4 @@
 [2026-06-16 15:39:31 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-06-16 19:03:12 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-06-16 22:18:26 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
+[2026-06-17 09:18:58 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
