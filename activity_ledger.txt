@@ -189,3 +189,4 @@
 [2026-06-16 22:18:26 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-06-17 09:18:58 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-06-17 12:24:02 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
+[2026-06-17 16:22:53 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
