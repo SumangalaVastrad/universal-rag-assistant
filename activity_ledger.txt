@@ -191,3 +191,4 @@
 [2026-06-17 12:24:02 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-06-17 16:22:53 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-06-17 20:51:20 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-06-18 11:29:50 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
