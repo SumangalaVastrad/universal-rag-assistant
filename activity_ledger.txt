@@ -200,3 +200,4 @@
 [2026-06-20 11:02:12 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-06-20 15:13:57 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-06-20 17:54:13 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-06-20 18:54:04 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
