@@ -202,3 +202,4 @@
 [2026-06-20 17:54:13 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-06-20 18:54:04 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-06-20 22:16:03 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
+[2026-06-21 09:16:24 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
