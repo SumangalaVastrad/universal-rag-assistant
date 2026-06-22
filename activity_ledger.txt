@@ -209,3 +209,4 @@
 [2026-06-21 21:38:36 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-06-22 09:55:37 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-06-22 11:50:14 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-06-22 15:55:15 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
