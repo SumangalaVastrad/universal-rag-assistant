@@ -207,3 +207,4 @@
 [2026-06-21 15:29:12 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-06-21 19:56:31 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-06-21 21:38:36 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-06-22 09:55:37 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
