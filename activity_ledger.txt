@@ -211,3 +211,4 @@
 [2026-06-22 11:50:14 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-06-22 15:55:15 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-06-22 22:42:15 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
+[2026-06-23 09:39:52 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
