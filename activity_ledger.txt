@@ -215,3 +215,4 @@
 [2026-06-23 11:01:15 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-06-23 16:17:39 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-06-23 19:52:20 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
+[2026-06-23 20:46:46 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
