@@ -216,3 +216,4 @@
 [2026-06-23 16:17:39 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-06-23 19:52:20 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-06-23 20:46:46 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-06-24 13:26:38 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
