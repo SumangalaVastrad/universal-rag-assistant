@@ -223,3 +223,4 @@
 [2026-06-25 10:18:41 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-06-25 14:21:56 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-06-25 16:18:17 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
+[2026-06-26 11:58:04 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
