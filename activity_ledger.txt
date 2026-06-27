@@ -229,3 +229,4 @@
 [2026-06-27 09:27:26 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-06-27 13:25:48 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-06-27 16:03:38 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-06-27 19:46:37 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
