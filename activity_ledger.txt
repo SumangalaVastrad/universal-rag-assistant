@@ -230,3 +230,4 @@
 [2026-06-27 13:25:48 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-06-27 16:03:38 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-06-27 19:46:37 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
+[2026-06-27 21:53:13 +0530] feat(context): implement dynamic context window packing to maximize token utilization
