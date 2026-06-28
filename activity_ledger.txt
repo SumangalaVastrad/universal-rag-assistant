@@ -233,3 +233,4 @@
 [2026-06-27 21:53:13 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-06-28 11:12:19 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-06-28 13:07:31 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
+[2026-06-28 14:09:48 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
