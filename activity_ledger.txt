@@ -232,3 +232,4 @@
 [2026-06-27 19:46:37 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-06-27 21:53:13 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-06-28 11:12:19 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
+[2026-06-28 13:07:31 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
