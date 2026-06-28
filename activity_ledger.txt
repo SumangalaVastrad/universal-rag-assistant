@@ -235,3 +235,4 @@
 [2026-06-28 13:07:31 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-06-28 14:09:48 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-06-28 17:17:47 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
+[2026-06-28 21:52:36 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
