@@ -241,3 +241,4 @@
 [2026-06-29 15:17:38 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-06-29 20:19:30 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-06-30 10:56:44 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-06-30 12:25:34 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
