@@ -244,3 +244,4 @@
 [2026-06-30 12:25:34 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-06-30 16:20:27 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-06-30 17:04:56 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
+[2026-06-30 22:55:10 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
