@@ -245,3 +245,4 @@
 [2026-06-30 16:20:27 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-06-30 17:04:56 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-06-30 22:55:10 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-08-01 11:50:06 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
