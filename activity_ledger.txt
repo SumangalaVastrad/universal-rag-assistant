@@ -250,3 +250,4 @@
 [2026-08-01 20:41:12 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-08-01 22:21:41 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-08-02 10:40:28 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
+[2026-08-02 11:41:28 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
