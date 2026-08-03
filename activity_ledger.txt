@@ -255,3 +255,4 @@
 [2026-08-02 21:31:25 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-08-02 22:01:03 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-08-03 09:15:45 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
+[2026-08-03 12:57:23 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
