@@ -259,3 +259,4 @@
 [2026-08-03 19:20:09 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-08-03 21:07:25 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-08-03 22:33:38 +0530] feat(context): implement dynamic context window packing to maximize token utilization
+[2026-08-04 11:22:58 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
