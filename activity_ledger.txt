@@ -263,3 +263,4 @@
 [2026-08-04 14:32:23 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-08-04 15:49:13 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-08-04 17:11:52 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
+[2026-08-04 18:26:02 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
