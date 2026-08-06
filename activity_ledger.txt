@@ -268,3 +268,4 @@
 [2026-08-05 14:03:25 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-08-05 20:57:41 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
 [2026-08-06 10:54:02 +0530] feat(context): implement dynamic context window packing to maximize token utilization
+[2026-08-06 19:04:45 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
