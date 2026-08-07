@@ -273,3 +273,4 @@
 [2026-08-07 09:20:27 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-08-07 11:43:07 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-08-07 12:43:34 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-08-07 19:18:40 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
