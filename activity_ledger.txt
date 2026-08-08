@@ -275,3 +275,4 @@
 [2026-08-07 12:43:34 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-08-07 19:18:40 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-08-07 20:39:45 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-08-08 10:13:39 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
