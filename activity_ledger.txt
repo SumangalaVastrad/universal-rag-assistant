@@ -278,3 +278,4 @@
 [2026-08-08 10:13:39 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
 [2026-08-08 16:13:50 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-08-08 21:17:54 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-08-09 09:14:45 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
