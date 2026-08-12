@@ -289,3 +289,4 @@
 [2026-08-11 10:24:52 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-08-11 11:44:21 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-08-11 22:28:48 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
+[2026-08-12 11:22:23 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
