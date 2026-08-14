@@ -295,3 +295,4 @@
 [2026-08-13 10:30:18 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
 [2026-08-13 15:54:25 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-08-13 21:45:55 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
+[2026-08-14 10:47:04 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
