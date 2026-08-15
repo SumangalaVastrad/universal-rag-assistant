@@ -301,3 +301,4 @@
 [2026-08-15 11:40:02 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-08-15 14:56:44 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-08-15 15:57:54 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-08-15 18:47:58 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
