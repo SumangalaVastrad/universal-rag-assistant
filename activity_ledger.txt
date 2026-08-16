@@ -302,3 +302,4 @@
 [2026-08-15 14:56:44 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-08-15 15:57:54 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-08-15 18:47:58 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
+[2026-08-16 10:21:01 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
