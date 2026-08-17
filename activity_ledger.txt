@@ -309,3 +309,4 @@
 [2026-08-17 17:43:47 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-08-17 18:16:31 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-08-17 20:23:43 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
+[2026-08-17 22:44:42 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
