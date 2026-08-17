@@ -305,3 +305,4 @@
 [2026-08-16 10:21:01 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-08-16 13:46:56 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-08-16 19:44:34 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
+[2026-08-17 14:07:28 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
