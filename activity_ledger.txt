@@ -314,3 +314,4 @@
 [2026-08-18 16:32:21 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-08-18 17:16:22 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-08-18 20:18:04 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
+[2026-08-18 22:33:15 +0530] feat(context): implement dynamic context window packing to maximize token utilization
