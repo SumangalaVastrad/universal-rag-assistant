@@ -317,3 +317,4 @@
 [2026-08-18 22:33:15 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-08-19 10:08:32 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-08-19 14:48:42 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
+[2026-08-19 16:02:07 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
