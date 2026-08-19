@@ -319,3 +319,4 @@
 [2026-08-19 14:48:42 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-08-19 16:02:07 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-08-19 20:26:27 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
+[2026-08-19 22:03:36 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
