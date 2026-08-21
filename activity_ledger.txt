@@ -325,3 +325,4 @@
 [2026-08-20 17:53:15 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-08-20 19:55:30 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-08-20 20:22:36 +0530] feat(context): implement dynamic context window packing to maximize token utilization
+[2026-08-21 12:01:22 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
