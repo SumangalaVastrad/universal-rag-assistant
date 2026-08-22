@@ -329,3 +329,4 @@
 [2026-08-21 19:23:54 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
 [2026-08-21 21:41:52 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-08-22 11:53:46 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-08-22 16:48:47 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
