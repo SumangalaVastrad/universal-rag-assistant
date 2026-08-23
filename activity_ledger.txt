@@ -332,3 +332,4 @@
 [2026-08-22 16:48:47 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-08-22 22:27:07 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-08-23 12:07:49 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-08-23 14:27:03 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
