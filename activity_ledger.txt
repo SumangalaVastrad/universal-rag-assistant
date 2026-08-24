@@ -336,3 +336,4 @@
 [2026-08-23 16:41:54 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-08-23 22:44:38 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-08-24 09:36:28 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
+[2026-08-24 11:54:38 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
