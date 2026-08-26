@@ -345,3 +345,4 @@
 [2026-08-25 18:26:22 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-08-25 21:19:29 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-08-26 13:41:14 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-08-26 14:13:14 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
