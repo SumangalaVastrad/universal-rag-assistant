@@ -364,3 +364,4 @@
 [2026-08-29 16:48:42 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-08-29 18:36:25 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-08-30 14:36:04 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
+[2026-08-30 15:01:48 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
