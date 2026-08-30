@@ -366,3 +366,4 @@
 [2026-08-30 14:36:04 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-08-30 15:01:48 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-08-30 19:17:13 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
+[2026-08-30 22:40:56 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
