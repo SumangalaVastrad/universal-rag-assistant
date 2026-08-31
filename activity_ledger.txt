@@ -368,3 +368,4 @@
 [2026-08-30 19:17:13 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-08-30 22:40:56 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-08-31 14:48:39 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
+[2026-08-31 17:13:50 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
