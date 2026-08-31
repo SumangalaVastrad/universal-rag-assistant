@@ -371,3 +371,4 @@
 [2026-08-31 17:13:50 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
 [2026-08-31 18:47:13 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-08-31 19:19:29 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-08-31 20:12:44 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
