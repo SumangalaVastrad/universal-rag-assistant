@@ -373,3 +373,4 @@
 [2026-08-31 19:19:29 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-08-31 20:12:44 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-09-01 11:38:55 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
+[2026-09-01 13:17:01 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
