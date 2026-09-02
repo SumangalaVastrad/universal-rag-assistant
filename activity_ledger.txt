@@ -380,3 +380,4 @@
 [2026-09-02 16:05:51 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
 [2026-09-02 18:46:21 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-09-02 19:34:15 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
+[2026-09-02 22:12:34 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
