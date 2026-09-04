@@ -386,3 +386,4 @@
 [2026-09-03 19:49:40 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-09-04 09:16:58 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-09-04 10:42:40 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
+[2026-09-04 14:40:16 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
