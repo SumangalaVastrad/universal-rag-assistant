@@ -388,3 +388,4 @@
 [2026-09-04 10:42:40 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-09-04 14:40:16 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-09-04 16:03:44 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-09-04 19:57:21 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
