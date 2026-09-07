@@ -396,3 +396,4 @@
 [2026-09-06 11:41:05 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-09-06 17:14:43 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-09-07 12:57:48 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-09-07 17:50:28 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
