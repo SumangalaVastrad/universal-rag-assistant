@@ -402,3 +402,4 @@
 [2026-09-08 10:12:51 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-09-08 14:17:36 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-09-08 20:05:37 +0530] feat(context): implement dynamic context window packing to maximize token utilization
+[2026-09-09 09:44:08 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
