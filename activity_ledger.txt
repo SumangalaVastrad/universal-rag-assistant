@@ -413,3 +413,4 @@
 [2026-09-10 21:02:31 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-09-11 11:57:51 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-09-11 13:56:47 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-09-11 19:42:24 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
