@@ -416,3 +416,4 @@
 [2026-09-11 19:42:24 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-09-11 22:01:36 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-09-12 10:14:48 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-09-12 13:48:58 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
