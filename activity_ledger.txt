@@ -418,3 +418,4 @@
 [2026-09-12 10:14:48 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-09-12 13:48:58 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-09-12 17:47:23 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-09-12 22:14:27 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
