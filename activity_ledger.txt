@@ -422,3 +422,4 @@
 [2026-09-13 10:43:52 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-09-13 11:37:55 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-09-13 12:04:55 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
+[2026-09-13 13:49:36 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
