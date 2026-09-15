@@ -429,3 +429,4 @@
 [2026-09-14 19:40:05 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-09-14 22:58:13 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-09-15 11:28:11 +0530] feat(context): implement dynamic context window packing to maximize token utilization
+[2026-09-15 14:01:21 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
