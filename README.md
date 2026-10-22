@@ -1,14 +1,3 @@
-﻿---
-title: Universal RAG AI Assistant
-emoji: 🧠
-colorFrom: indigo
-colorTo: cyan
-sdk: gradio
-sdk_version: "5.0.0"
-app_file: app.py
-pinned: true
-license: mit
----
 
 # Universal RAG AI Knowledge Assistant
 
