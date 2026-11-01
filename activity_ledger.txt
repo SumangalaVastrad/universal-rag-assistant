@@ -433,3 +433,4 @@
 [2026-09-15 18:16:51 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-09-15 19:15:46 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-09-15 21:48:42 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
+[2026-11-01 09:54:18 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
