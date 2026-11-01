@@ -438,3 +438,4 @@
 [2026-11-01 11:09:58 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-11-01 13:35:13 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-11-01 14:17:47 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-11-01 16:57:41 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
