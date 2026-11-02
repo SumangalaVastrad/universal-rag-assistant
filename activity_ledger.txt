@@ -452,3 +452,4 @@
 [2026-11-02 18:11:12 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-11-02 19:37:37 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-11-02 20:43:56 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
+[2026-11-02 21:10:48 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
