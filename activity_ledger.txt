@@ -470,3 +470,4 @@
 [2026-11-04 15:11:42 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
 [2026-11-04 16:54:27 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-11-04 18:02:16 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
+[2026-11-04 21:03:09 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
