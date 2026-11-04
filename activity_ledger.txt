@@ -466,3 +466,4 @@
 [2026-11-04 10:47:08 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-11-04 11:31:44 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-11-04 12:31:31 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
+[2026-11-04 14:14:38 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
