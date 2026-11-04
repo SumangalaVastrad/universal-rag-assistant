@@ -463,3 +463,4 @@
 [2026-11-03 18:17:25 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-11-03 20:15:34 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
 [2026-11-03 22:26:23 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-11-04 10:47:08 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
