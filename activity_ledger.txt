@@ -482,3 +482,4 @@
 [2026-11-05 18:17:11 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-11-05 19:47:44 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-11-05 20:22:30 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
+[2026-11-05 22:39:38 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
