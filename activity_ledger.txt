@@ -472,3 +472,4 @@
 [2026-11-04 18:02:16 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-11-04 21:03:09 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
 [2026-11-04 22:37:38 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
+[2026-11-05 09:11:15 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
