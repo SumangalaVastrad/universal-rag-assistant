@@ -479,3 +479,4 @@
 [2026-11-05 14:53:50 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
 [2026-11-05 15:12:40 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-11-05 16:43:33 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-11-05 18:17:11 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
