@@ -489,3 +489,4 @@
 [2026-11-06 14:27:24 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-11-06 16:56:03 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-11-06 17:45:34 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
+[2026-11-06 18:28:15 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
