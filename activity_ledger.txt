@@ -498,3 +498,4 @@
 [2026-11-07 10:14:45 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-11-07 13:52:21 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
 [2026-11-07 17:27:24 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
+[2026-11-07 18:07:10 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
