@@ -501,3 +501,4 @@
 [2026-11-07 18:07:10 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-11-07 19:28:42 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-11-07 20:38:17 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
+[2026-11-07 21:17:55 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
