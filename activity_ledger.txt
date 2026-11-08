@@ -504,3 +504,4 @@
 [2026-11-07 21:17:55 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-11-07 22:35:28 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-11-08 10:51:45 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
+[2026-11-08 11:11:07 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
