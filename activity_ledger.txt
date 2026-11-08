@@ -512,3 +512,4 @@
 [2026-11-08 16:45:44 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-11-08 18:46:04 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-11-08 19:11:25 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
+[2026-11-08 22:41:01 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
