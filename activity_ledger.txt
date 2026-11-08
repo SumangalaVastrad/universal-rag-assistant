@@ -509,3 +509,4 @@
 [2026-11-08 13:26:51 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-11-08 14:22:52 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
 [2026-11-08 15:36:40 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-11-08 16:45:44 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
