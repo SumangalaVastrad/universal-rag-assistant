@@ -519,3 +519,4 @@
 [2026-11-09 13:19:13 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
 [2026-11-09 14:03:51 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
 [2026-11-09 15:39:33 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
+[2026-11-09 17:34:45 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
