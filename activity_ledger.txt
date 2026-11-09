@@ -516,3 +516,4 @@
 [2026-11-09 09:01:13 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-11-09 11:55:43 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-11-09 12:52:34 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
+[2026-11-09 13:19:13 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
