@@ -514,3 +514,4 @@
 [2026-11-08 19:11:25 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-11-08 22:41:01 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-11-09 09:01:13 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-11-09 11:55:43 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
