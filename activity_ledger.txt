@@ -530,3 +530,4 @@
 [2026-11-10 15:12:27 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-11-10 17:33:07 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-11-10 18:36:05 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
+[2026-11-10 19:33:19 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
