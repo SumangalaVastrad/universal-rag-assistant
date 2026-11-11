@@ -535,3 +535,4 @@
 [2026-11-11 09:25:41 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-11-11 11:51:15 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-11-11 15:44:45 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
+[2026-11-11 16:15:52 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
