@@ -548,3 +548,4 @@
 [2026-11-12 15:50:07 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-11-12 16:08:06 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-11-12 18:44:43 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
+[2026-11-12 19:32:40 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
