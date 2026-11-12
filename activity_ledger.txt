@@ -543,3 +543,4 @@
 [2026-11-11 21:17:16 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-11-11 22:19:06 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
 [2026-11-12 10:54:16 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
+[2026-11-12 12:54:40 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
