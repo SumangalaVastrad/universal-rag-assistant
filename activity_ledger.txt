@@ -546,3 +546,4 @@
 [2026-11-12 12:54:40 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
 [2026-11-12 13:23:10 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-11-12 15:50:07 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
+[2026-11-12 16:08:06 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
