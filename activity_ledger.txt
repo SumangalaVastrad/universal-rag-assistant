@@ -557,3 +557,4 @@
 [2026-11-13 13:08:45 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-11-13 15:34:30 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
 [2026-11-13 17:21:45 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
+[2026-11-13 18:01:01 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
