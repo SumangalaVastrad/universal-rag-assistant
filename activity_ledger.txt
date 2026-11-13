@@ -561,3 +561,4 @@
 [2026-11-13 19:44:14 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-11-13 20:25:38 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-11-13 21:07:21 +0530] test(eval): benchmark answer relevance and context precision across standard test suites
+[2026-11-13 22:24:40 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
