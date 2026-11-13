@@ -559,3 +559,4 @@
 [2026-11-13 17:21:45 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-11-13 18:01:01 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-11-13 19:44:14 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
+[2026-11-13 20:25:38 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
