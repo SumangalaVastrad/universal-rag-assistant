@@ -554,3 +554,4 @@
 [2026-11-13 09:26:56 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-11-13 11:44:50 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-11-13 12:12:30 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-11-13 13:08:45 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
