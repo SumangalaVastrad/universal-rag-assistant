@@ -570,3 +570,4 @@
 [2026-11-14 16:52:01 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
 [2026-11-14 18:12:27 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-11-14 19:32:09 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
+[2026-11-14 20:58:55 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
