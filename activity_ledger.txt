@@ -565,3 +565,4 @@
 [2026-11-14 10:36:28 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-11-14 11:55:25 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-11-14 12:13:10 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
+[2026-11-14 13:52:48 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
