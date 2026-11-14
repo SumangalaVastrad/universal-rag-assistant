@@ -571,3 +571,4 @@
 [2026-11-14 18:12:27 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-11-14 19:32:09 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-11-14 20:58:55 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
+[2026-11-14 21:41:34 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
