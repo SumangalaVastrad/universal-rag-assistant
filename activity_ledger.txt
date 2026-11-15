@@ -577,3 +577,4 @@
 [2026-11-15 13:56:44 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-11-15 14:39:13 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-11-15 15:37:37 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
+[2026-11-15 16:42:42 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
