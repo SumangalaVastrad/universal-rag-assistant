@@ -591,3 +591,4 @@
 [2026-11-16 17:38:34 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-11-16 18:29:27 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-11-16 20:11:12 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
+[2026-11-16 21:55:02 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
