@@ -585,3 +585,4 @@
 [2026-11-15 21:32:50 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-11-16 10:39:42 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-11-16 11:26:18 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
+[2026-11-16 12:57:29 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
