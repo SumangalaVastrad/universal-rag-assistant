@@ -592,3 +592,4 @@
 [2026-11-16 18:29:27 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
 [2026-11-16 20:11:12 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-11-16 21:55:02 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-11-17 09:06:42 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
