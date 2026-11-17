@@ -595,3 +595,4 @@
 [2026-11-17 09:06:42 +0530] feat(deploy): write multi-stage Dockerfile and configure render.yaml deployment specification
 [2026-11-17 10:57:25 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-11-17 11:20:15 +0530] feat(context): implement dynamic context window packing to maximize token utilization
+[2026-11-17 13:16:48 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
