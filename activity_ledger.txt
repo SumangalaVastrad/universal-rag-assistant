@@ -601,3 +601,4 @@
 [2026-11-17 17:09:34 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-11-17 18:54:11 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
 [2026-11-17 21:02:03 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
+[2026-11-17 22:43:23 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
