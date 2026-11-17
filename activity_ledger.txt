@@ -596,3 +596,4 @@
 [2026-11-17 10:57:25 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-11-17 11:20:15 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-11-17 13:16:48 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
+[2026-11-17 15:19:29 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
