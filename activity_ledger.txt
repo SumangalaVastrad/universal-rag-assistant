@@ -609,3 +609,4 @@
 [2026-11-18 15:20:01 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-11-18 16:01:34 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-11-18 18:53:49 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
+[2026-11-18 19:55:09 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
