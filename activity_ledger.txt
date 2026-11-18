@@ -604,3 +604,4 @@
 [2026-11-17 22:43:23 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-11-18 10:52:06 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-11-18 11:29:20 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
+[2026-11-18 12:24:27 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
