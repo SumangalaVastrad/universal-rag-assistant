@@ -618,3 +618,4 @@
 [2026-11-19 12:52:40 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-11-19 15:52:45 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
 [2026-11-19 16:44:18 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
+[2026-11-19 18:19:42 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
