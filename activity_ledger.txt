@@ -620,3 +620,4 @@
 [2026-11-19 16:44:18 +0530] refactor(retrieval): calibrate RRF smoothing constant k=60 for balanced ranking
 [2026-11-19 18:19:42 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-11-19 19:48:35 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
+[2026-11-19 20:52:18 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
