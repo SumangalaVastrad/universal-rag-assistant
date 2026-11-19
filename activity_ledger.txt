@@ -616,3 +616,4 @@
 [2026-11-19 09:41:16 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-11-19 11:34:49 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
 [2026-11-19 12:52:40 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
+[2026-11-19 15:52:45 +0530] feat(ui): build interactive Gradio chat interface with real-time markdown streaming
