@@ -626,3 +626,4 @@
 [2026-11-20 09:01:32 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-11-20 10:14:22 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
 [2026-11-20 11:27:20 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
+[2026-11-20 12:51:52 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
