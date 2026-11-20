@@ -629,3 +629,4 @@
 [2026-11-20 12:51:52 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
 [2026-11-20 13:32:24 +0530] feat(context): implement dynamic context window packing to maximize token utilization
 [2026-11-20 16:30:45 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
+[2026-11-20 17:51:03 +0530] refactor(config): externalize embedding batch size and similarity thresholds to .env
