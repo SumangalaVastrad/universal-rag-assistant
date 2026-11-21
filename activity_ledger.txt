@@ -639,3 +639,4 @@
 [2026-11-21 16:44:20 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
 [2026-11-21 17:21:11 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-11-21 20:41:47 +0530] docs(readme): compile comprehensive technical README with architecture flowchart and benchmarks
+[2026-11-21 21:03:48 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
