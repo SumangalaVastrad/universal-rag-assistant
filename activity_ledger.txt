@@ -635,3 +635,4 @@
 [2026-11-21 09:48:50 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
 [2026-11-21 10:07:34 +0530] test(llm): verify citation attribution accuracy linking answers to source document pages
 [2026-11-21 12:43:14 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
+[2026-11-21 15:31:25 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
