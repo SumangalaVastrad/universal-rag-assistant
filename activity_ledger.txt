@@ -646,3 +646,4 @@
 [2026-11-22 11:45:39 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-11-22 12:10:24 +0530] feat(eval): integrate RAGAS framework for automated evaluation of retrieval faithfulness
 [2026-11-22 13:50:06 +0530] perf(pipeline): optimize asynchronous document parsing worker pool with thread executors
+[2026-11-22 15:16:11 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
