@@ -655,3 +655,4 @@
 [2026-11-23 11:29:36 +0530] feat(rbac): implement role-based access control (Admin, HR, Finance, Engineering)
 [2026-11-23 12:19:35 +0530] feat(embeddings): integrate SentenceTransformers all-MiniLM-L6-v2 vector embeddings
 [2026-11-23 14:45:32 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
+[2026-11-23 15:13:37 +0530] feat(retrieval): apply word-count penalty to avoid short irrelevant document bias
