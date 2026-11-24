@@ -663,3 +663,4 @@
 [2026-11-24 09:13:34 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-11-24 10:44:32 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
 [2026-11-24 11:50:36 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
+[2026-11-24 12:10:40 +0530] feat(vectorstore): build FAISS flat L2 vector index for rapid similarity search
