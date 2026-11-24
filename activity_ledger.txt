@@ -660,3 +660,4 @@
 [2026-11-23 20:23:21 +0530] feat(llm): integrate Groq LPU API client for high-throughput streaming inference
 [2026-11-23 21:47:30 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-11-23 22:18:56 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
+[2026-11-24 09:13:34 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
