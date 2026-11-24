@@ -662,3 +662,4 @@
 [2026-11-23 22:18:56 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
 [2026-11-24 09:13:34 +0530] fix(token): enforce strict context length clamping for long multi-page PDF documents
 [2026-11-24 10:44:32 +0530] feat(retrieval): implement BM25 lexical keyword ranker for sparse retrieval
+[2026-11-24 11:50:36 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
