@@ -667,3 +667,4 @@
 [2026-11-24 13:19:21 +0530] feat(retrieval): build Reciprocal Rank Fusion (RRF) algorithm combining dense and sparse ranks
 [2026-11-24 14:27:42 +0530] feat(rag): implement recursive character text splitter with semantic header boundaries
 [2026-11-24 15:21:08 +0530] feat(loader): add CSV and Excel tabular data ingestion with column header preservation
+[2026-11-24 16:07:34 +0530] feat(prompt): design grounded question-answering prompt with strict hallucination guardrails
